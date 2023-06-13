@@ -48,7 +48,7 @@ while True:
         print("Available questions:")
         for i, question in enumerate(training_data[::2], start=1):
             print(f"{i}. {question}")
-            print("mighty)
+            print("mighty")
 
         while True:
             try:
