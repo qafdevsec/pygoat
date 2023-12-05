@@ -1,0 +1,6 @@
+{
+  "jwt_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyLCJuYmYiOjE1MTYyMzkwMjIsImV4cCI6MTUxNjI0NTAyMn0.K4_g7mYF9vbtC6W2KDF4HrSnduCJ0sXisHEd2jOm2pA",
+  "expiration_time": "2023-12-31T23:59:59Z",
+  "not_before_time": "2022-01-01T00:00:00Z",
+  "other_data": "Additional information in the file."
+}
